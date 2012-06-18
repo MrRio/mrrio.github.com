@@ -259,5 +259,5 @@ function demoImages() {
 		doc.output('datauri');
 	}
 
-	getImageFromUrl('thinking-monkey.jpg', createPDF);
+	getImageFromUrl('examples/thinking-monkey.jpg', createPDF);
 }
